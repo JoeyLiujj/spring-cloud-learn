@@ -1,0 +1,15 @@
+server:
+  port: 9000
+
+eureka:
+  instance:
+    hostname: localhost #eureka实例名称
+  client:
+      service-url:
+        defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
+      register-with-eureka: false #不向注册中心注册自己
+      fetch-registry: false
+spring:
+  redis:
+    host: localhost #是否检索服务
+    port: 6379

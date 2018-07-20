@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eureka-api/eureka-api.iml" filepath="$PROJECT_DIR$/eureka-api/eureka-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-customer/eureka-customer.iml" filepath="$PROJECT_DIR$/eureka-customer/eureka-customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-provider/eureka-provider.iml" filepath="$PROJECT_DIR$/eureka-provider/eureka-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-provider2/eureka-provider2.iml" filepath="$PROJECT_DIR$/eureka-provider2/eureka-provider2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-provider3/eureka-provider3.iml" filepath="$PROJECT_DIR$/eureka-provider3/eureka-provider3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-learn.iml" filepath="$PROJECT_DIR$/spring-cloud-learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud-learn.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud-learn.iml" />
+    </modules>
+  </component>
+</project>
