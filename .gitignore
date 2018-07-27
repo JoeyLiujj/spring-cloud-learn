@@ -1,0 +1,7 @@
+.idea/
+*.iml
+eureka-api/target
+eureka-customer/target
+eureka-provider/target
+eureka-provider2/target
+eureka-provider3/target
